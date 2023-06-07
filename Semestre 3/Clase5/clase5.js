@@ -1,6 +1,6 @@
 /*
 Laboratorio III
-Clase 2
+Clase 5
 08/05/23
 Abel Pierna
 Objetos Parte 2
